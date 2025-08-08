@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "760470281140",
+    "project_id": "deneme-c8433",
+    "storage_bucket": "deneme-c8433.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760470281140:android:0448a8adb8f418e48b30e1",
+        "android_client_info": {
+          "package_name": "com.example.ozcan_proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760470281140-ek9nn82n8cb4tamp77o03bu2q4ler16d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAounI3G2l0ZUM2RNquhF9GZStzNBPUFJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760470281140-ek9nn82n8cb4tamp77o03bu2q4ler16d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760470281140-3879rl35cj960orcrresh5pvok4e7rc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ozcanProje"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

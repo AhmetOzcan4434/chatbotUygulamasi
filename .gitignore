@@ -1,0 +1,47 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.macos/
+.windows/
+.linux/
+ios/Pods/
+pubspec.lock
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# DB / Scripts
+*.sqlite3
+*.sql
+
+.dart_tool/
+build/
+
+# Secrets / Local config
+.env
+.env.*
+*.secrets.*
+lib/config/secrets.dart
+
+# Android signing
+android/key.properties
+*.jks
+*.keystore
+
+# Apple certs/keys
+*.p12
+*.pem
+*.cer
+*.der
+
+# Optionally ignore Firebase app config files if you don't want to commit them
+# android/app/google-services.json
+# ios/Runner/GoogleService-Info.plist
